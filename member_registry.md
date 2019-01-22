@@ -11,4 +11,5 @@
 | <a target="_blank" href="https://keybase.io/rperez89">@rperez89</a>  | `0x593e1F9809658d0c92e9f092cF01Aad7D0d734f3` |
 | <a target="_blank" href="https://keybase.io/ro5s">@ro5s</a> | `0x1409f15D77F28882C220860d5F534A1A7a9F3481` |
 | <a target="_blank" href="https://keybase.io/schmidsi">@schmidsi</a> | `0xe98C357458C89198575a32462760402CaB2A9a4D` |
+| <a target="_blank" href="https://keybase.io/goliat">@goliat</a> | `0x3E0B02c9f2c5107c2747fCb0E68d997bE2fa0F7f` 
 | | |
