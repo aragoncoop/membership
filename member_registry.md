@@ -12,4 +12,5 @@
 | [@ro5s](https://keybase.io/ro5s) | `0x1409f15D77F28882C220860d5F534A1A7a9F3481` |
 | [@schmidsi](https://keybase.io/schmidsi) | `0xe98C357458C89198575a32462760402CaB2A9a4D` |
 | [@goliat](https://keybase.io/goliat) | `0x3E0B02c9f2c5107c2747fCb0E68d997bE2fa0F7f` |
+| [@dizzypaty](https://keybase.io/dizzypaty) | `0xa2e9cbaF5Aef1D1781dE1664f50E50FE3481aab7` |
 | | |
