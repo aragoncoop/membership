@@ -3,7 +3,7 @@
 |----------|:-------------:|
 | <a target="_blank" href="https://keybase.io/lkngtn">@lkngtn</a> |  `0x625236038836CecC532664915BD0399647E7826b` |
 | <a target="_blank" href="https://keybase.io/stellarmagnet">@stellarmagnet</a> | `0xeBAC3108C58Bd4dD48a8110B7750480Cea7bC3Fb`  |
-| <a target="_blank" href="https://keybase.io/jjperezaguinaga">@jjperezaguinaga></a> | `0x016b4De659f33f27e0C9281E41C5EBd6942c6f61` |
+| <a target="_blank" href="https://keybase.io/jjperezaguinaga">@jjperezaguinaga</a> | `0x016b4De659f33f27e0C9281E41C5EBd6942c6f61` |
 | <a target="_blank" href="https://keybase.io/bingen">@bingen</a> | `0x6F82dfD56A399390EFe5140d8E0390B200Dbb935` |
 | <a target="_blank" href="https://keybase.io/imestin">@imestin</a>  | `0xF971b59792c8D122602b37E00d310fE069A03619` |
 | <a target="_blank" href="https://keybase.io/louisgrx">@louisgrx</a> | `0xbe40DCADB6bF4De1c7810EcA3504E5f3BEA9cF35` |
