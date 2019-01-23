@@ -13,4 +13,5 @@
 | <a target="_blank" href="https://keybase.io/schmidsi">@schmidsi</a> | `0xe98C357458C89198575a32462760402CaB2A9a4D` |
 | <a target="_blank" href="https://keybase.io/goliat">@goliat</a> | `0x3E0B02c9f2c5107c2747fCb0E68d997bE2fa0F7f` |
 | <a target="_blank" href="https://keybase.io/dizzypaty">@dizzypaty</a> | `0xa2e9cbaF5Aef1D1781dE1664f50E50FE3481aab7` |
+| <a target="_blank" href="https://keybase.io/kevbot">@kevbot</a> | `0xBFc7CAE0Fad9B346270Ae8fde24827D2D779eF07` |
 | | |
