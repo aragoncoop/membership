@@ -17,4 +17,5 @@
 | <a target="_blank" href="https://keybase.io/kevbot">@kevbot</a> | `0xBFc7CAE0Fad9B346270Ae8fde24827D2D779eF07` |
 | <a target="_blank" href="https://keybase.io/osarrouy">@osarrouy</a> | `0x8873b045d40A458e46E356a96279aE1820a898bA` |
 | <a target="_blank" href="https://keybase.io/bpierre">@bpierre</a> | `0x50d271519510c55B15408C2C6aeed69800694EF4` |
+| <a target="_blank" href="https://keybase.io/julian_brooks">@julian_brooks</a> | `0x505559E39993cAC587560368BDC04D93c62b35b1` |
 | | |
