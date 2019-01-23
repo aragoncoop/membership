@@ -13,6 +13,7 @@
 | <a target="_blank" href="https://keybase.io/schmidsi">@schmidsi</a> | `0xe98C357458C89198575a32462760402CaB2A9a4D` |
 | <a target="_blank" href="https://keybase.io/goliat">@goliat</a> | `0x3E0B02c9f2c5107c2747fCb0E68d997bE2fa0F7f` |
 | <a target="_blank" href="https://keybase.io/dizzypaty">@dizzypaty</a> | `0xa2e9cbaF5Aef1D1781dE1664f50E50FE3481aab7` |
+| <a target="_blank" href="https://keybase.io/mariapg">@mariapg</a> | `0x5fb50ea4af7CE507c4CA5da26dB7a690367137cA` |
 | <a target="_blank" href="https://keybase.io/kevbot">@kevbot</a> | `0xBFc7CAE0Fad9B346270Ae8fde24827D2D779eF07` |
 | <a target="_blank" href="https://keybase.io/osarrouy">@osarrouy</a> | `0x8873b045d40A458e46E356a96279aE1820a898bA` |
 | <a target="_blank" href="https://keybase.io/bpierre">@bpierre</a> | `0x50d271519510c55B15408C2C6aeed69800694EF4` |
