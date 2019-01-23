@@ -13,4 +13,6 @@
 | [@schmidsi](https://keybase.io/schmidsi) | `0xe98C357458C89198575a32462760402CaB2A9a4D` |
 | [@goliat](https://keybase.io/goliat) | `0x3E0B02c9f2c5107c2747fCb0E68d997bE2fa0F7f` |
 | [@dizzypaty](https://keybase.io/dizzypaty) | `0xa2e9cbaF5Aef1D1781dE1664f50E50FE3481aab7` |
+| [@kevbot](https://keybase.io/kevbot) | `0xBFc7CAE0Fad9B346270Ae8fde24827D2D779eF07`|
+| [@bpierre](https://keybase.io/bpierre) | `0x50d271519510c55B15408C2C6aeed69800694EF4`|
 | | |
