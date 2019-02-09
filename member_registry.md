@@ -19,5 +19,6 @@
 | [@mariapg](https://keybase.io/mariapg) | `0x5fb50ea4af7CE507c4CA5da26dB7a690367137cA`|
 | [@osarrouy](https://keybase.io/osarrouy) | `0x8873b045d40A458e46E356a96279aE1820a898bA`|
 | [@julian_brooks](https://keybase.io/julian_brooks) | `0x505559E39993cAC587560368BDC04D93c62b35b1`|
+| [@ottog](https://keybase.io/ottog) | `0x9819c1f48397eca46e80a7aa549685ca1683b804`|
 | [@giveth](https://keybase.io/giveth) | `0x839395e20bbB182fa440d08F850E6c7A8f6F0780`|
 | | |
