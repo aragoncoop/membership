@@ -1,3 +1,6 @@
+# DAO Access
+The Aragon Cooperative DAO is located at: https://mainnet.aragon.org/#/0x940B2B518F761f4c52CDd9865C57D9a907DC5E82
+
 # Cooperative Membership
 | Keybase Name | Ethereum Address |
 |----------|:-------------:|
