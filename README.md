@@ -27,3 +27,4 @@ The Aragon Cooperative DAO is located at: https://mainnet.aragon.org/#/0x940B2B5
 | [@gustavosegovia](https://keybase.io/gustavosegovia) | `0x6543c99d0e073c140Fd08A741c6cfdcd1449da94`|
 | [@cryptodani](https://keybase.io/cryptodani) | `0x2Cd23B6eEA4663392c6146A34E682bb8A9C4A95B`|
 | [@burrrata](https://keybase.io/burrrata) | `0x9944E8D07603A1A7090aC163f178eF8B3752EcAb`|
+| [@aaronfosterreal](https://keybase.io/aaronfosterreal) | `0x5cb479DB92Ce3572383837c9775639dC373e4194`|
